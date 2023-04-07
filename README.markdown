@@ -1,1 +1,0 @@
-A personal blog using the theme [Nice Blog](https://github.com/gabriel-chen/Nice_Blog/releases)
