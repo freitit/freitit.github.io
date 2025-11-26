@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.copy-button {
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.container-output:hover .copy-button {
+  opacity: 1;
+}
+
+.tooltip {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.tooltip.show {
+  visibility: visible;
+  opacity: 1;
+}
+
+.tool-card {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.tool-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.list-item {
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.list-item:hover {
+  background-color: #f8fafc;
+  transform: translateX(4px);
+}
+
+.list-item .item-copy-button {
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.list-item:hover .item-copy-button {
+  opacity: 1;
+}
+
+.list-item .timestamp {
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.list-item:hover .timestamp {
+  opacity: 1;
+}
+
+.generate-animation {
+  animation: slideInFromTop 0.3s ease-out;
+}
+
+@keyframes slideInFromTop {
+  from {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.back-button {
+  transition: all 0.2s ease;
+}
+
+.back-button:hover {
+  transform: translateX(-4px);
+}
