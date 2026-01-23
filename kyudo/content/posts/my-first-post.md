@@ -1,6 +1,6 @@
 ---
 date: '2025-11-26T15:05:34+07:00'
-draft: true
+draft: false
 title: 'Vài thuật ngữ trong Kyudo'
 ---
 
