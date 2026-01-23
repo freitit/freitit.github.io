@@ -4,6 +4,8 @@ draft: false
 title: 'Vài thuật ngữ trong Kyudo'
 ---
 
+Đây là danh sách các thuật ngữ tiếng Nhật được sử dụng trong Kyudo mà bạn cần biết.
+
 ## Không gian đạo trường
 
 ![Kyudo dojo](https://www.kyudo.com/kyudojo.jpg)
