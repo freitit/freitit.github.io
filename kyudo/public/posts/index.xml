@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Sổ tay học</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Sổ tay học</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>vn-VN</language>
+    <lastBuildDate>Wed, 26 Nov 2025 15:05:34 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vài thuật ngữ về Kyudo</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 26 Nov 2025 15:05:34 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;không-gian-đạo-trường&#34;&gt;Không gian đạo trường&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Thuật ngữ&lt;/th&gt;
+          &lt;th&gt;Dịch&lt;/th&gt;
+          &lt;th&gt;Ý nghĩa&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dojo&lt;/td&gt;
+          &lt;td&gt;Đạo trường&lt;/td&gt;
+          &lt;td&gt;Sân tập&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Honza&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Vị trí ngồi/đứng chờ trước khi vào vị trí Shai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Shai&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Vị trí ngồi/đứng bắn&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>

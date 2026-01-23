@@ -1,0 +1,29 @@
+baseURL: https://example.org/
+languageCode: vn-VN
+title: Sổ tay học
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: Sổ tay Kyudo
+  description: "Sổ tay Kyudo"
+  author: Me
+  DateFormat: "2 January, 2006"
+
+  ShowReadingTime: true
+  hidemeta: false
+  hideSummary: false
+  disableLangToggle: false
+  disableThemeToggle: false
+
+  homeInfoParams:
+    Title: "\U0001F44B Chao xìn"
+    Content: Đây là sổ tay lưu trữ kiến thức của tôi khi học kyudo

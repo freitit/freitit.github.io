@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sổ tay học</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sổ tay học</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>vn-VN</language>
+    <lastBuildDate>Wed, 26 Nov 2025 15:05:34 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vài thuật ngữ về Kyudo</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 26 Nov 2025 15:05:34 +0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;không-gian-đạo-trường&#34;&gt;Không gian đạo trường&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Thuật ngữ&lt;/th&gt;
+          &lt;th&gt;Dịch&lt;/th&gt;
+          &lt;th&gt;Ý nghĩa&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dojo&lt;/td&gt;
+          &lt;td&gt;Đạo trường&lt;/td&gt;
+          &lt;td&gt;Sân tập&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kyudojo&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;(Tương tự như dojo)&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Honza&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Vị trí ngồi/đứng chờ trước khi vào vị trí Shai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Shai&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Vị trí ngồi/đứng bắn&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Azuchi&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Khu vực gắn bia mato&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Shajo&lt;/td&gt;
+          &lt;td&gt;Xạ trường&lt;/td&gt;
+          &lt;td&gt;Khu vực bắn (bao gồm các vị trí Azuchi, Shai và Honza)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img alt=&#34;Kyudo dojo&#34; loading=&#34;lazy&#34; src=&#34;https://www.kyudo.com/kyudojo.jpg&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Matoba (target house)&lt;/li&gt;
+&lt;li&gt;Azuchi (target bank)&lt;/li&gt;
+&lt;li&gt;Kantekijo (target viewing area)&lt;/li&gt;
+&lt;li&gt;Yatori-michi (arrow retrieval path)&lt;/li&gt;
+&lt;li&gt;Yamichi (arrow pathway)&lt;/li&gt;
+&lt;li&gt;Hikae (waiting area)&lt;/li&gt;
+&lt;li&gt;Honza (starting position)&lt;/li&gt;
+&lt;li&gt;Sadamenoza (establishing position)&lt;/li&gt;
+&lt;li&gt;Shai (shooting position)&lt;/li&gt;
+&lt;li&gt;Kamiza (upper seat)&lt;/li&gt;
+&lt;li&gt;Shimoza (lower seat)&lt;/li&gt;
+&lt;li&gt;Rear Hikae and/or Makiwara practice area&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(6-12) Shajo (Practice area)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
