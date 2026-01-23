@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: /kyudo/sitemap.xml
