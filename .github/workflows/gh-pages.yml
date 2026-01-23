@@ -34,7 +34,7 @@ jobs:
           hugo-version: "latest"
 
       - name: Build Hugo site
-        run: hugo --minify -s kyudo --baseURL "${{ steps.pages.outputs.base_url }}/kyudo"
+        run: hugo --minify -s kyudo --baseURL "${{ steps.pages.outputs.base_url }}"
 
       - name: List public directory tree
         run: |
@@ -58,4 +58,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./public/kyudo
