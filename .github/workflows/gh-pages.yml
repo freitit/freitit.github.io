@@ -36,7 +36,8 @@ jobs:
       - name: Prepare deploy directory
         run: |
           mkdir public
-          cp -r kyudo/public/* public/
+          mkdir public/kyudo
+          cp -r kyudo/public/* public/kyudo/
           # Copy all files from repo root except .git, kyudo/public, and deploy itself
           shopt -s extglob
           cp -r !(kyudo|public|.git|.github) public/
