@@ -31,7 +31,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build Hugo site
-        run: hugo --minify -s kyudo
+        run: hugo --minify -s kyudo --baseURL "${{ steps.pages.outputs.base_url }}/kyudo"
 
       - name: Prepare deploy directory
         run: |
