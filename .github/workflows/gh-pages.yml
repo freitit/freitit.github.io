@@ -28,10 +28,15 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
 
       - name: Build Hugo site
         run: hugo --minify -s kyudo --baseURL "${{ steps.pages.outputs.base_url }}/kyudo"
+
+      - name: List public directory tree
+        run: |
+          echo "public directory files:"
+          tree kyudo/public || find kyudo/public
 
       - name: Prepare deploy directory
         run: |
