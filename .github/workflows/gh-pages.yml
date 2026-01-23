@@ -41,7 +41,11 @@ jobs:
           # Copy all files from repo root except .git, kyudo/public, and deploy itself
           shopt -s extglob
           cp -r !(kyudo|public|.git|.github) public/
-      
+      - name: List public directory tree
+        run: |
+          echo "public directory files:"
+          tree public || find public
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
