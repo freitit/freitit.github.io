@@ -3,7 +3,7 @@ name: Deploy site to Pages
 on:
   push:
     branches:
-      - main
+      - master
   # Allows manual triggers from the Actions tab
   workflow_dispatch:
 
